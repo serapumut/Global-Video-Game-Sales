@@ -1,6 +1,14 @@
 ## Global Video Game Sales Analysis
 As a child, I spent countless hours immersed in the cyberworld and played a wide variety of games from the comfort of my room. Now my passion has become my profession as a video game tester and I use the same passion to ensure that games are bug-free to meet the highest standards of playability. Besides testing, my interests have evolved to include data analysis to help improve future gaming experiences. 
 Therefore in this project, I will explore and visualize the relevant questions. 
+
+1. How have video game sales trends changed over the decades?
+2. Which regions have the highest sales for video games?
+3. How do sales trends vary by platform?
+4. Which publishers have the highest sales figures?
+5. Is there a correlation between a game's genre and its sales?
+
+Data set: https://www.kaggle.com/datasets/samanfatima7/cleaned-global-video-game-sales-dataset
 <!--
 **serapumut/serapumut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
