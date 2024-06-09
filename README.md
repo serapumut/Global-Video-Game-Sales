@@ -1,4 +1,4 @@
-## Hi there 👋
+## Global Video Game Sales Analysis
 
 <!--
 **serapumut/serapumut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
