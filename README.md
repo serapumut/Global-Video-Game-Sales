@@ -1,5 +1,5 @@
 ## Global Video Game Sales Analysis
-I’m currently working on 
+As a child, I spent countless hours immersed in the cyberworld and played a wide variety of games from the comfort of my room. Now my passion has become my profession as a video game tester and I use the same passion to ensure that games are bug-free to meet the highest standards of playability. Besides testing, my interests have evolved to include data analysis to help improve future gaming experiences. In this project, 
 <!--
 **serapumut/serapumut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
