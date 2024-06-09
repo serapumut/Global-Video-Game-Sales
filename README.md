@@ -1,5 +1,6 @@
 ## Global Video Game Sales Analysis
-As a child, I spent countless hours immersed in the cyberworld and played a wide variety of games from the comfort of my room. Now my passion has become my profession as a video game tester and I use the same passion to ensure that games are bug-free to meet the highest standards of playability. Besides testing, my interests have evolved to include data analysis to help improve future gaming experiences. In this project, 
+As a child, I spent countless hours immersed in the cyberworld and played a wide variety of games from the comfort of my room. Now my passion has become my profession as a video game tester and I use the same passion to ensure that games are bug-free to meet the highest standards of playability. Besides testing, my interests have evolved to include data analysis to help improve future gaming experiences. 
+Therefore in this project, I will explore and visualize the relevant questions. 
 <!--
 **serapumut/serapumut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
