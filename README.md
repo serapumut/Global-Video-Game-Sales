@@ -4,9 +4,11 @@ Therefore in this project, I will explore and visualize the relevant questions.
 
 1. How have video game sales trends changed over the years?
 2. Which regions have the highest sales for video games?
-3. How do sales trends vary by platform?
-4. Which publishers have the highest sales figures?
-5. Is there a correlation between a game's genre and its sales?
+3. How do sales trends (greater than 100 million) vary by platform?
+4. Top Ten Publishers have the Highest Sales Figures.
+5. Average Sales by Genre For Each Region.
+6. Determine the Top 5 Publishers by Global Sales and Specify Their Top 5 Genres.
+
 
 Data set: https://www.kaggle.com/datasets/samanfatima7/cleaned-global-video-game-sales-dataset
 <!--
